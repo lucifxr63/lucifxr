@@ -65,3 +65,33 @@ footer
         display: table-cell;
         vertical-align: middle;
     }
+
+#paginacion {
+    margin: 20px 0;
+}    
+
+#paginacion ul {
+    list-style:none;
+    text-align:center ;
+}
+
+#paginacion ul li {
+    display: inline block;
+    margin-right:10px ;
+}
+
+#paginacion ul li a {
+    display:block;
+    padding:10 px 20 px ;
+    color:#fff;
+    background:#024959;
+    text-decoration:none;
+}
+#paginacion ul li a:hover {
+    backgroun:#037E8c;
+}
+
+#paginacion ul li .active {
+    background:#037E8c;
+    font-weight:bold;
+}
