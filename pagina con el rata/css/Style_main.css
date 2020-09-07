@@ -1,0 +1,46 @@
+body
+{
+    background-color: #00ffea;
+}
+header
+{
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.cen
+{
+    text-align: center;
+}
+.menuowo
+{
+    font-size: 38px;
+}
+
+.titu1
+{
+    padding: 25px;
+
+    border-block-end-style: double;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+footer
+{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.parr1
+{
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.Tl1
+{
+    padding-top: 150px;
+    font-size: 40px;
+}
