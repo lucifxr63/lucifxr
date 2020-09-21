@@ -1,0 +1,17 @@
+.titu1
+{
+    padding: 25px;
+    border-block-end-style: double;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    text-align: justify;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.parr1
+{
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Comfortaa', sans-serif;
+}
