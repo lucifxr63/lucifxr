@@ -18,7 +18,7 @@ header
 
 .immx
 {
-    max-height: 30% ;
+    max-height: 40% ;
 }
 
 
@@ -37,4 +37,10 @@ footer
 {
     background-color: rgba(0, 0, 0, 0.6);
     color: seashell;
+}
+
+.dekus
+{
+    text-align: center;
+
 }
